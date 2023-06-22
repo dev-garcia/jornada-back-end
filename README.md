@@ -15,8 +15,5 @@ A TRILHA BACKEND SERÁ OFERECIDA DE FORMA INTENSIVA ENTRE 05 E 14 DE JUNHO!
 
 
 ## Referência
-
- - [Repositório do professor Paulo](https://github.com/paulosalvatore/jornada-backend-junho-2023)
- - [Trilha do curso da Samsung Ocean](https://www.oceanbrasil.com/atividades/3250-JORNADA-BACKEND)
-
-
+- <a href="https://github.com/paulosalvatore/jornada-backend-junho-2023" target="_blank">Repositório do professor Paulo</a>
+- <a href="https://www.oceanbrasil.com/atividades/3250-JORNADA-BACKEND" target="_blank">Trilha do curso da Samsung Ocean</a>
